@@ -1,0 +1,7 @@
+[user]
+	name = Colin But
+	email = colin.but@sainsburys.co.uk
+[pager]
+	branch = false
+[init]
+	defaultBranch = main

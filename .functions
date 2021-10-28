@@ -1,0 +1,3 @@
+#!/bin/bash
+
+[ -f ".functions.local" ] && source ".functions.local"
